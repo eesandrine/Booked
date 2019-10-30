@@ -40,3 +40,5 @@ Find application.yml in resources folder and edit configuration in this file.
 
 Data folder contains a sample JSON-file to save contact.
     
+
+    
