@@ -1,7 +1,7 @@
 package com.example.Booked.controller;
 
-import com.manta.model.Contact;
-import com.manta.service.ContactService;
+import com.example.Booked.model.Contact;
+import com.example.Booked.service.ContactService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
