@@ -1,6 +1,6 @@
 package com.example.Booked.repository;
 
-import com.manta.model.Contact;
+import com.example.Booked.model.Contact;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
